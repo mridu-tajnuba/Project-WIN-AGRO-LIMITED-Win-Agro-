@@ -17,14 +17,13 @@ This project demonstrates complete manual testing of a web application including
 - Documented bugs with:
   - Steps to reproduce
   - Severity
-  - Screenshots
 
 ### 🔹Test Plan
 - Includes testing strategy, scope, and approach
 
 ### 🛠Tools Used
 - Google Sheets
-- Snagit
+- Microsoft Excel
 - Browser DevTools
 
 ### 📊Outcome
