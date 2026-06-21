@@ -11,15 +11,11 @@ This project demonstrates complete manual testing of a web application including
 - Cross-browser Testing
 
 ## 📂Contents
-###  🔹Test Cases
-- Contains detailed test cases with expected vs actual results
+
 ### 🔹Bug Reports
 - Documented bugs with:
   - Steps to reproduce
   - Severity
-
-### 🔹Test Plan
-- Includes testing strategy, scope, and approach
 
 ### 🛠Tools Used
 - Google Sheets
